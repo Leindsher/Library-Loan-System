@@ -115,4 +115,4 @@ On first launch, the script creates `biblioteca.db` in the same folder and sets 
 
 ## License
 
-This project was built as a learning exercise. Feel free to add a license of your choice (e.g. MIT) before publishing if you'd like others to reuse the code.
+This project was built as a learning exercise.

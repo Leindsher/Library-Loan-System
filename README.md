@@ -112,17 +112,6 @@ python Desafio_-_Sistema_de_Biblioteca_02.py
 
 On first launch, the script creates `biblioteca.db` in the same folder and sets up all required tables.
 
-## Screenshots
-
-> Add screenshots of each version here, e.g.:
->
-> ```markdown
-> ### v1
-> ![Main menu](screenshots/v1-main-menu.png)
->
-> ### v2
-> ![Main menu](screenshots/v2-main-menu.png)
-> ```
 
 ## License
 
